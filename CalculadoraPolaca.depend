@@ -1,7 +1,9 @@
 # depslib dependency file v1.0
-1498417941 source:c:\users\zoilo reyes\documents\itla\estructura de datos\pruebas\calculadorapolaca\main.cpp
+1498434339 source:c:\users\zoilo reyes\documents\itla\estructura de datos\pruebas\calculadorapolaca\main.cpp
 	<iostream>
 	<stack>
 	<string>
 	<sstream>
+	<vector>
+	<iterator>
 
